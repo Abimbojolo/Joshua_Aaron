@@ -28,4 +28,9 @@ My focus is always the same: build systems that are reliable, scalable, and comm
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abimbojolo&show_icons=true&locale=en" alt="abimbojolo" /></p>
 
+<p>
+  <img align="center" src="https://streak-stats.demolab.com/?user=abimbojolo" alt="abimbojolo" />
+</p>
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abimbojolo&" alt="abimbojolo" /></p> 
