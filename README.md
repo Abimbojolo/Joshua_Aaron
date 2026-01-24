@@ -23,6 +23,28 @@ My focus is always the same: build systems that are reliable, scalable, and comm
 <a href="https://instagram.com/@aaronjoshualoveday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@aaronjoshualoveday" height="30" width="40" /></a>
 </p>
 
+import requests
+
+username = "Abimbojolo"  # change if needed
+repos = []
+page = 1
+
+while True:
+    url = f"https://api.github.com/users/{username}/repos?per_page=100&page={page}"
+    data = requests.get(url).json()
+    if not data:
+        break
+    repos.extend(data)
+    page += 1
+
+total_stars = sum(r["stargazers_count"] for r in repos)
+for r in sorted(repos, key=lambda x: x["stargazers_count"], reverse=True):
+    print(f"{r['name']}: {r['stargazers_count']} stars")
+
+print("TOTAL STARS:", total_stars)
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
