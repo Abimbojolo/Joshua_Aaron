@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abimbojolo&label=Profile%20views&color=0e75b6&style=flat" alt="abimbojolo" /> </p>
 
-<p align="left"> <a href="https://twitter.com/teejaaron" target="blank"><img src="https://img.shields.io/twitter/follow/teejaaron?logo=twitter&style=for-the-badge" alt="teejaaron" /></a> </p>
-
 - 🔭 I'm a data and platform engineer passionate about designing high-impact systems that enable organisations to scale.
 
 - My work spans building core architecture for SaaS platforms, workflow automation, multi-tenant systems, rule-validation engines, distributed data pipelines, and internal tooling that accelerates engineering teams.
