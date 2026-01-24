@@ -11,10 +11,9 @@
 
 - My work spans building core architecture for SaaS platforms, workflow automation, multi-tenant systems, rule-validation engines, distributed data pipelines, and internal tooling that accelerates engineering teams.
 
-I contribute to open-source projects, build reusable frameworks, and maintain documentation hubs used across organisations.
+- I contribute to open-source projects, build reusable frameworks, and maintain documentation hubs used across organisations.
 My focus is always the same: build systems that are reliable, scalable, and commercially impactful.
   
-- 📝 Graduate Msc Data Analytics and Technologies University of Bolton
 
 - 📫 How to reach me **aaronjoshualoveday@gmail.com**
 
