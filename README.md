@@ -39,5 +39,3 @@ My focus is always the same: build systems that are reliable, scalable, and comm
 
 
 
-
-
