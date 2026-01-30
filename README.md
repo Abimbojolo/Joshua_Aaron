@@ -30,7 +30,12 @@ My focus is always the same: build systems that are reliable, scalable, and comm
 
 <img align="center" src="https://streak-stats.demolab.com/?user=abimbojolo" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abimbojolo&show_icons=true&locale=en)
+<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=abimbojolo)
+  <!-- GitHub main stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=abimbojolo&show_icons=true&locale=en" />
 
+  <!-- Contribution streak -->
+  <img src="https://streak-stats.demolab.com/?user=abimbojolo" />
+
+</div>
