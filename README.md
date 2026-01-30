@@ -33,10 +33,6 @@ My focus is always the same: build systems that are reliable, scalable, and comm
 <div align="center">
   
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abimbojolo&show_icons=true&locale=en)
-
-
-
 
 
 
