@@ -32,9 +32,10 @@ My focus is always the same: build systems that are reliable, scalable, and comm
 
 <div align="center">
 
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=abimbojolo&show_icons=true&locale=en" />
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abimbojolo&show_icons=true&locale=en)
+
+![Streak](https://streak-stats.demolab.com/?user=abimbojolo)
+
 
 
   <!-- Contribution streak -->
