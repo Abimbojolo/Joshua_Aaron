@@ -31,6 +31,7 @@ My focus is always the same: build systems that are reliable, scalable, and comm
 
 ![GitHub Streak](https://raw.githubusercontent.com/abimbojolo/cache-proxy/main/streak.svg)
 
+![GitHub Stats](https://raw.githubusercontent.com/abimbojolo/cache-proxy/main/ghstats.svg)
 
 
 <img src="https://stats.dooboo.io/api/github-stats?login=abimbojolo" />
