@@ -26,14 +26,9 @@ My focus is always the same: build systems that are reliable, scalable, and comm
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abimbojolo&show_icons=true&locale=en&v=1)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-500-blue)
+![GitHub Followers](https://img.shields.io/badge/Followers-120-lightgrey)
 
-
-![GitHub Streak](https://streak-stats.demolab.com?user=abimbojolo)
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=abimbojolo&show_icons=true&locale=en)
 
 
 
