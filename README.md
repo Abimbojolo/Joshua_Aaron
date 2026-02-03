@@ -29,6 +29,7 @@ My focus is always the same: build systems that are reliable, scalable, and comm
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-500-blue)
 ![GitHub Followers](https://img.shields.io/badge/Followers-120-lightgrey)
 
+![GitHub Streak](https://raw.githubusercontent.com/abimbojolo/cache-proxy/main/streak.svg)
 
 
 
