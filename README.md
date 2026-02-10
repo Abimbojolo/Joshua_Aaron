@@ -35,3 +35,97 @@ My focus is always the same: build systems that are reliable, scalable, and comm
 
 
 <img src="https://stats.dooboo.io/api/github-stats?login=abimbojolo" />
+
+
+<h1 align="center">Hi, I'm Joshua Aaron 👋</h1>
+<p align="center">
+  <strong>Founder • Systems Architect • Open-Source Engineer</strong><br/>
+  Advancing distributed systems, AI automation and developer tools through sustained OSS contributions.
+</p>
+
+---
+
+# 📊 Full GitHub Contribution Overview (Official API-Based Metrics)
+
+These charts are automatically updated using the GitHub API to give an authoritative, complete view of my engineering activity across all repositories, organisations, pull requests, issues, stars and contributions.
+
+### 🔥 **Global OSS Metrics Dashboard**
+> Updated daily using `lowlighter/metrics`
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="95%">
+</p>
+
+---
+
+# 🧩 **Contribution Distribution & Top Contributor Stats**
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abimbojolo&theme=github_dark" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abimbojolo&theme=github_dark" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abimbojolo&theme=github_dark" width="48%"/>
+</p>
+
+---
+
+# 🚀 **GitHub Global Rankings (Commits, PRs, Contributions)**
+
+> Generated via `commits.top` and OSS Insight  
+> These help quantify my standing relative to global contributors.
+
+| Metric | Ranking / Count |
+|--------|-----------------|
+| **Global Commits Ranking** | Auto-updating |
+| **PR Contributions Ranking** | Auto-updating |
+| **Top Contributor Status** | Auto-updating per repo |
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abimbojolo&show_icons=true&theme=tokyonight" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abimbojolo&layout=compact&theme=tokyonight" width="49%"/>
+</p>
+
+---
+
+# 🔥 **Open-Source Achievements (Official GitHub Badges)**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abimbojolo&theme=onedark&no-bg=true&column=6" width="95%"/>
+</p>
+
+---
+
+# 🌍 **OSS Insight Analytics (PRs, Issues, Stars, Velocity)**  
+> Automatically generated through OSS Insight API links in my Evidence Pack.
+
+---
+
+# 🛠️ **Tech Stack**
+
+| Domain | Technologies |
+|--------|--------------|
+| Distributed Systems | Go, Python, Storj, Multinode Pipelines |
+| Machine Learning | Scikit-Learn, Pandas, XGBoost |
+| Backend Engineering | Django, FastAPI, Node.js |
+| Frontend | Vue, React, AdminLTE |
+| Databases | PostgreSQL, Redis, MongoDB |
+| DevOps | Docker, GitHub Actions, CI/CD |
+
+---
+
+# 🧠 **Open-Source Focus Areas**
+- Distributed storage infrastructure  
+- AI/ML workflow automation  
+- Data engineering tooling  
+- System design and performance optimisation  
+- Production-grade admin dashboard frameworks  
+
+---
+
+# 📬 **Connect**
+- LinkedIn: *Your link*
+- Portfolio: *Your link*
+- Email: *Your email*
+
